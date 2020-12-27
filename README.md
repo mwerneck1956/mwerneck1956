@@ -1,5 +1,12 @@
+My name is Matheus Werneck , 
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mwerneck1956)](https://github.com/anuraghazra/github-readme-stats)
-- 🌱 I’m currently learning Typescript , NextJS.
+
+My name is matheus werneck m, I am currently a fullstack Node, ReactJS developer at [Proveu](https://www.proveu.com.br) , and computer Science undergraduate student at Federal University of Juiz de Fora (UFJF).
+
+- 🌱 I’m currently learning Typescript , NextJS , Rust , Flutter.
+- 📫 How to reach me: <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href ="https://www.linkedin.com/in/matheus-werneck-2aa222178/" target="_blank"  />
 
 
 <!--
