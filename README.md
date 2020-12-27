@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mwerneck1956)](https://github.com/anuraghazra/github-readme-stats)
-- 🌱 I’m currently learning Typescript [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+- 🌱 I’m currently learning Typescript , NextJS.
 
 
 <!--
@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Typescript [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning Typescript , NextJS , 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
