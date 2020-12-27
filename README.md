@@ -2,6 +2,8 @@
 
 <!--
 **mwerneck1956/mwerneck1956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Matheus Werneck Github stats](https://github-readme-stats.vercel.app/api?username=mwerneck1956)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
