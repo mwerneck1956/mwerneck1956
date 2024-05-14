@@ -1,4 +1,5 @@
-My name is Matheus Werneck , I am currently a javascript front-end developer (ReactJS) at [ília](https://ilia.digital/), and computer Science undergraduate student at Federal University of Juiz de Fora (UFJF).
+My name is Matheus Werneck , I am currently a javascript front-end developer (ReactJS) at [ília](https://ilia.digital/)
+
 
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/matheus-werneck-2aa222178/") 
 
